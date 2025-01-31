@@ -1,1 +1,1 @@
-# AI_moel
+# synthtic_dataset_ai_model
